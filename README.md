@@ -1,2 +1,2 @@
 # PRNG
-Particle-based Pseudo-Random Number Generator
+Repo that needs to be deleted. Current version of the project is in TRNG repo.
